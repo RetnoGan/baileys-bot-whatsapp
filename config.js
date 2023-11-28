@@ -2,9 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 global.namabot = 'Bens - MD'//setting bot name
-global.owner = ["628871746203"]//settinh owner
+global.owner = ["62882000681216"]//settinh owner
 global.prefix =   "/^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i"
-global.pairingNum = ""//contoh: 62xxxx
+global.pairingNum = "6285861152235"//contoh: 62xxxx
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
